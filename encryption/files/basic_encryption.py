@@ -58,4 +58,4 @@ def sort_content(content):
         # Tar ut alle elementene i hver liste og legger det til i en ny liste sortert
         print "\n".join(word for word in combined)
         # Slår sammen elementene i listen med newline mellom hvert element
-
+# test
