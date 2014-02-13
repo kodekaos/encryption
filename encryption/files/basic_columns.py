@@ -29,3 +29,5 @@ a = read()
 for word in a:
     print "%s" % word,
     
+def test():
+    pass
